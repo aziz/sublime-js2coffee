@@ -1,5 +1,5 @@
 # Sublime JS2Coffee
-A quick way to convert Javascript to Coffeescript without leaving Sublime Text 2.
+A quick way to convert Javascript to Coffeescript without leaving Sublime Text 3.
 
 
 ## Installation
@@ -28,6 +28,13 @@ The syntax will be automatically set to CoffeeScript, and either the current fil
 
 ![image](http://f.cl.ly/items/3P3z0Z0r2K1C3c2V1r3a/untitled%20%E2%80%94%20sublime-js2coffee-2.jpg)
 
+## Settings
+``` json
+{
+  "js2coffee_path": "/usr/local/bin/node /usr/local/bin/js2coffee",
+  "coffee_syntax_path": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+}
+```
 
 ## Bind a Key Combination
 **Note:** Out of courtesy, there is no keyboard shortcut set by default.

@@ -1,0 +1,4 @@
+{
+  "js2coffee_path": "/usr/local/bin/node /usr/local/bin/js2coffee",
+  "coffee_syntax_path": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+}
